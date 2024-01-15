@@ -1,4 +1,3 @@
-## Important
 This project is associated with Arizona State University, released under CSE 598: Machine Learning Security and Fairness course. I have provided overview of this individual project. For access to the complete source code, please contact me at my [email](asroideva@gmail.com) address.
 
 # CNN Image Classification and Adversarial attacks
